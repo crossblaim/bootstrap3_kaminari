@@ -1,0 +1,7 @@
+en:
+  views:
+    pagination:
+      bootstrap3:
+        previous: "&larr;"
+        next: "&rarr;"
+        truncate: "..."
